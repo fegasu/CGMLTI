@@ -1,0 +1,22 @@
+<link href="https://fegasusoft.com/analitica/EXE.css" rel="stylesheet" />
+<center>
+<article><img 80="" alt="" src="https://archivos.territorio.la/archivos/clases/PlantillanAnunciosnLENGUAJESnDEnPROGRAMACION___235e9c7bd530c22___.png" width="100%" />
+<hr />
+<table style="width: 80%; border: 10,10,10,10;">
+	<tbody>
+		<tr>
+			<td style="width: 57.6124%;"><button id="bt" onclick="window.open('https://drive.google.com/open?id=1F1eEUbHO6E5fA0VHgPDm5xY7JPxGY3ds','xxxx')">GUIA DE APRENDIZAJE</button></td>
+		</tr>
+		<tr>
+			<td style="width: 57.6124%;"><button id="bt" onclick="window.open('https://drive.google.com/drive/folders/1bhO0u-lQgzxRP2oLJc3KuOLrxAUPe3Av?usp=sharing','xxxx')">PLAN DE TRABAJO CONCERTADO</button></td>
+		</tr>
+		<tr>
+			<td style="width: 57.6124%;"><button id="bt" onclick="window.open('https://drive.google.com/open?id=1rukjwclG1WUB9MljDL0u3Y_3UchE8Zg0','xxxx')">MATERIAL DE FORMACI&Oacute;N</button></td>
+		</tr>
+		<tr>
+			<td style="width: 57.6124%;"><button id="bt" onclick="window.open('https://drive.google.com/open?id=1CVO0jcZlLCP6BHINsab00Yuz3ND56NxL','xxxx')">OTROS</button></td>
+		</tr>
+	</tbody>
+</table>
+</article>
+</center>
